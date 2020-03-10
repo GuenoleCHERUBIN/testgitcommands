@@ -1,2 +1,2 @@
 <?php
-echo 'test commit master';
+echo 'test commit master 2';
